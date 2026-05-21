@@ -27,7 +27,7 @@ Because the future of security starts at the gate, Bawaba 2030 aims to transform
 
 
 ## Methodology Overview
-Based on our observations and literature review analysis, we will adopt a Hybrid process because it better supports cross-team collaboration. Hybrid gives us four things we need in a hardware–software capstone: compatibility (it works with mixed project types), clarity of responsibilities (the project is mapped from start to finish with defined roles), detailed planning (we can meet academic milestones), and flexibility (we can still adjust when implementation reveals new constraints)
+Based on our observations and literature review analysis, we will adopt a Hybrid process because it better supports cross-team collaboration. Hybrid gives us four things we need in a hardware–software-AI capstone: compatibility (it works with mixed project types), clarity of responsibilities (the project is mapped from start to finish with defined roles), detailed planning (we can meet academic milestones), and flexibility (we can still adjust when implementation reveals new constraints)
 
 <img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/4abb0550-dea5-480a-a014-8808ad9721cc" />
 
