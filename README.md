@@ -1,19 +1,29 @@
-#  Solar powered Smart Entry System with AI threat Detection
+#  Solar powered Smart Entry System with AI threat Detection"Bawaba 2030"
 
-## Problem Statement
-Many organizations’ access systems still operate without fully automated gate control and without intelligent log management, so access events are not consistently captured or correlated with user identity. Due to the growth of new hacking tools and the evolving capability of attackers’ systems, such gaps make it easier to breach the gate workflow, resulting in unauthorized access without alerting the security guard. Due to the heavy reliance of traditional automatic gates on the main power grid, the gate becomes vulnerable during power outages, operating costs increase, and the system cannot guarantee continuous secure operation. These problems reduce overall system reliability, increase maintenance burden, and create windows where the gate may stay open or unmonitored, which motivates the need for an automated, logged, and power-resilient gate solution. 
+
+## Project Vision — Bawaba 2030
+
+Because the future of security starts at the gate, Bawaba 2030 aims to transform traditional access control into a smart, secure, and sustainable experience. Our vision is to build an automated gate system powered by AI threat detection, dynamic QR code authentication, location validation, and solar energy, while contributing to Saudi Vision 2030 goals for digital transformation and smart infrastructure.
 
 
 
 ## Objectives
-1.	To analyze the limitations of automated and manual gate operations particularly in security, entry speed, and assess their overall impact on campus operations.
-2.	To design and develop an automated campus gate system that uses dynamic QR-based contactless authentication and a threat-detection algorithm, while enhancing security through access logging that enables real-time traceability.
+1.	To analyze the limitations of manual and traditional automated gate operations, particularly in terms of security, access speed, traceability, energy dependency, and their overall impact on campus operations.
 
-3.	To evaluate the operation and security of the smart campus gate system that utilizes dynamic QR-based contactless authentication and AI-powered threat detection, ensuring secure access control and real-time logging under various access scenarios.
+2.	To design and develop a smart campus gate system that uses dynamic QR-based contactless authentication and user location validation to ensure that access requests are made by authorized users within the allowed gate radius.
 
-4.	To design an automatic gate that minimizes energy consumption by utilizing solar energy as a sustainable power source.
-5.	To provide a prototype that demonstrates smooth operation, reliable access control, and continuous functionally even during power outages
-6.	To evaluate the operation and implement the operation of motorized gate system controlled by Arduino and sensors, powered by a solar panel as alternative renewable energy source.
+3.	To implement a backend system that manages QR generation, QR validation, location checking, access logging, and communication with the gate control hardware to support secure and traceable access operations.
+
+4.	To integrate an AI-based employee access analysis component that classifies access behavior as normal or suspicious, while using the AI output as a monitoring and future alerting component rather than a direct gate controller.
+
+5.	To design an Arduino-based motorized gate control mechanism that receives commands from the backend and controls the physical gate operation through an actuator or motorized system.
+
+6.	To design a solar-powered gate system that reduces dependency on the main power grid and supports continuous operation during power outages or defined operating periods.
+
+7.	To evaluate the smart gate system under different access scenarios, including valid QR access, invalid or reused QR attempts, valid and invalid user locations, suspicious access behavior, and hardware control responses.
+
+8.	To provide a working prototype that demonstrates secure contactless access, reliable gate operation, digital audit logging, AI-supported monitoring, and continuous functionality supported by solar energy.
+
 
 
 ## Methodology Overview
@@ -38,4 +48,8 @@ Based on our observations and literature review analysis, we will adopt a Hybrid
 - **Institution:** University of Prince Muqrin (UPM)  
 
 ---
+
+## ACKNOWLEDGMENT
+First and foremost, we express our deepest gratitude to Allah Almighty for granting us the health, knowledge, and perseverance needed throughout this project journey. We would also like to extend our sincere appreciation to Dr. Hazrina Sofian and Dr. Ahsan Rahman for their continuous guidance and support, which greatly enriched our learning experience. Furthermore, we are grateful to the Software Engineering Department, Electrical Engineering Department, and the College of Computer Science for their valuable support.
+
 
