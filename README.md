@@ -1,10 +1,12 @@
-#  Solar powered Smart Entry System with AI threat Detection"Bawaba 2030"
+#  Solar powered Smart Entry System with AI threat Detection
 
 
-## Project Vision — Bawaba 2030
+## Project Vision 
 
 Because the future of security starts at the gate, Bawaba 2030 aims to transform traditional access control into a smart, secure, and sustainable experience. Our vision is to build an automated gate system powered by AI threat detection, dynamic QR code authentication, location validation, and solar energy, while contributing to Saudi Vision 2030 goals for digital transformation and smart infrastructure.
 
+## Bawaba 2030
+<img width="1254" height="1254" alt="logo" src="https://github.com/user-attachments/assets/24337473-24fc-4c6b-a214-e5d28dcf8aad" />
 
 
 ## Objectives
@@ -37,7 +39,7 @@ Based on our observations and literature review analysis, we will adopt a Hybrid
 
 
 ##	Team Roles and Responsibilities
-<img width="975" height="689" alt="image" src="https://github.com/user-attachments/assets/f3d78371-4431-4aed-8ac9-3b7aece86f44" />
+
 
 
 
