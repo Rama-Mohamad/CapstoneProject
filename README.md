@@ -32,6 +32,9 @@ Based on our observations and literature review analysis, we will adopt a Hybrid
 <img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/4abb0550-dea5-480a-a014-8808ad9721cc" />
 
 
+## System Architecture
+<img width="1505" height="1192" alt="detaildArchV3 3" src="https://github.com/user-attachments/assets/536576f6-8b39-4cb3-8cf6-fe629b8ddf67" />
+
 
 ##	Team Roles and Responsibilities
 <img width="975" height="689" alt="image" src="https://github.com/user-attachments/assets/f3d78371-4431-4aed-8ac9-3b7aece86f44" />
