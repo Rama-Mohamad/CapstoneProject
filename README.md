@@ -40,6 +40,7 @@ Based on our observations and literature review analysis, we will adopt a Hybrid
 
 ##	Team Roles and Responsibilities
 
+<img width="975" height="689" alt="image" src="https://github.com/user-attachments/assets/7ca5ad59-40a5-44f8-9627-22665875db10" />
 
 
 
